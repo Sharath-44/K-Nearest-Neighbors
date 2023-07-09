@@ -1,0 +1,153 @@
+thread_pattern,temperature_celsius,tire_pressure_psi,road_conditions,tire_age_years,vehicle_load_kg,driving_style,maintenance_history,driving_environment,vehicle_speed_kmh,tire_composition,mileage_km,tire_size,tire_depth_mm,tire_width_mm,remaining_distance_km
+Regular Rotations,25,32,Wet,2,1600,Moderate,Regular Inspections,Urban Roads,60,All-Season,40000,205/55R16,6,205,15000
+Symmetric,30,35,Dry,4,1800,Aggressive,No Maintenance,Highway,100,Performance,55000,225/45R17,5.8,225,25000
+Asymmetric,28,33,Wet,3,1500,Moderate,Regular Alignments,Urban and Highway,70,Summer,60000,235/50R18,5.6,235,30000
+Directional,22,28,Snow,5,2000,Conservative,Regular Rotations and Inspections,Mountainous,40,Winter,35000,195/65R15,7.2,195,12000
+Regular Rotations,25,32,Wet,2,1600,Moderate,Regular Inspections,Urban Roads,60,All-Season,40000,205/55R16,6,205,15000
+Symmetric,30,35,Dry,4,1800,Aggressive,No Maintenance,Highway,100,Performance,55000,225/45R17,5.8,225,25000
+Asymmetric,28,33,Wet,3,1500,Moderate,Regular Alignments,Urban and Highway,70,Summer,60000,235/50R18,5.6,235,30000
+Directional,22,28,Snow,5,2000,Conservative,Regular Rotations and Inspections,Mountainous,40,Winter,35000,195/65R15,7.2,195,12000
+Symmetric,27,30,Dry,1,1400,Moderate,No Maintenance,Urban Roads,50,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,23,34,Wet,4,1700,Aggressive,Regular Rotations and Inspections,Urban and Highway,75,Performance,48000,225/40R18,6.5,225,18000
+Regular Rotations,26,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,65,All-Season,45000,205/60R16,5.9,205,20000
+Directional,29,36,Wet,3,1500,Aggressive,No Maintenance,Highway,80,Summer,65000,235/55R17,6.1,235,28000
+Symmetric,24,29,Dry,4,1800,Moderate,Regular Alignments,Urban and Highway,55,All-Season,30000,195/65R15,5.5,195,10000
+Asymmetric,32,37,Wet,2,1400,Conservative,Regular Rotations and Inspections,Mountainous,45,Winter,25000,185/60R14,6,185,7000
+Directional,27,33,Dry,5,2000,Aggressive,No Maintenance,Urban Roads,70,Performance,60000,225/45R17,6.3,225,32000
+Regular Rotations,25,32,Wet,2,1600,Moderate,Regular Inspections,Urban Roads,60,All-Season,40000,205/55R16,6,205,15000
+Symmetric,30,35,Dry,4,1800,Aggressive,No Maintenance,Highway,100,Performance,55000,225/45R17,5.8,225,25000
+Asymmetric,28,33,Wet,3,1500,Moderate,Regular Alignments,Urban and Highway,70,Summer,60000,235/50R18,5.6,235,30000
+Directional,22,28,Snow,5,2000,Conservative,Regular Rotations and Inspections,Mountainous,40,Winter,35000,195/65R15,7.2,195,12000
+Symmetric,27,30,Dry,1,1400,Moderate,No Maintenance,Urban Roads,50,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,23,34,Wet,4,1700,Aggressive,Regular Rotations and Inspections,Urban and Highway,75,Performance,48000,225/40R18,6.5,225,18000
+Regular Rotations,26,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,65,All-Season,45000,205/60R16,5.9,205,20000
+Directional,29,36,Wet,3,1500,Aggressive,No Maintenance,Highway,80,Summer,65000,235/55R17,6.1,235,28000
+Symmetric,24,29,Dry,4,1800,Moderate,Regular Alignments,Urban and Highway,55,All-Season,30000,195/65R15,5.5,195,10000
+Asymmetric,32,37,Wet,2,1400,Conservative,Regular Rotations and Inspections,Mountainous,45,Winter,25000,185/60R14,6,185,7000
+Directional,27,33,Dry,5,2000,Aggressive,No Maintenance,Urban Roads,70,Performance,60000,225/45R17,6.3,225,32000
+Symmetric,27,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,28,32,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,28,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,33,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,29,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,34,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,31,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,32,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,31,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,37,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,28,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Regular Rotations,27,32,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Symmetric,28,35,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Asymmetric,26,33,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Directional,25,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Symmetric,30,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Asymmetric,24,31,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Directional,29,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Symmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Asymmetric,23,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,32,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,32,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,32,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,32,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000
+Directional,25,35,Wet,2,1500,Moderate,Regular Alignments,Urban Roads,50,Summer,30000,205/60R16,5.8,205,10000
+Symmetric,31,36,Dry,4,1800,Aggressive,Regular Inspections,Highway,90,All-Season,70000,235/55R17,6.2,235,32000
+Asymmetric,28,32,Wet,3,1600,Moderate,No Maintenance,Urban and Highway,75,Winter,55000,195/65R15,5.4,195,18000
+Directional,22,27,Snow,5,2000,Conservative,Regular Rotations,Mountainous,40,Performance,45000,225/45R17,6.6,225,15000
+Symmetric,26,31,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,55,All-Season,40000,205/55R16,6.1,205,14000
+Asymmetric,27,33,Wet,4,1800,Aggressive,Regular Alignments,Urban and Highway,80,Performance,60000,225/45R17,5.9,225,28000
+Directional,24,30,Dry,3,1500,Moderate,No Maintenance,Highway,65,Summer,55000,235/50R18,5.7,235,25000
+Symmetric,23,29,Wet,1,1400,Moderate,Regular Rotations,Urban Roads,45,All-Season,20000,185/60R14,5.2,185,8000
+Asymmetric,29,34,Snow,5,2000,Aggressive,Regular Inspections,Mountainous,70,Winter,35000,195/65R15,7,195,12000
+Regular Rotations,26,30,Dry,3,1600,Conservative,No Maintenance,Urban and Highway,60,Performance,50000,225/40R18,6.4,225,22000

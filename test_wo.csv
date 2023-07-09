@@ -1,0 +1,10 @@
+thread_pattern,temperature_celsius,tire_pressure_psi,road_conditions,tire_age_years,vehicle_load_kg,driving_style,maintenance_history,driving_environment,vehicle_speed_kmh,tire_composition,mileage_km,tire_size,tire_depth_mm,tire_width_mm
+Symmetric,32,36,Dry,2,1600,Moderate,Regular Inspections,Urban Roads,60,All-Season,35000,205/60R16,6,205
+Directional,20,26,Snow,4,1800,Conservative,Regular Rotations and Inspections,Mountainous,40,Winter,30000,195/65R15,7.2,195
+Asymmetric,28,33,Wet,3,1700,Moderate,Infrequent Maintenance,Highway,70,Summer,50000,225/50R17,5.5,225
+Regular Rotations,24,30,Wet,2,1500,Aggressive,Regular Alignments,Urban and Highway,80,Performance,40000,235/45R18,6.5,235
+Symmetric,26,32,Dry,1,1400,Moderate,Regular Inspections,Urban Roads,50,All-Season,25000,195/55R16,5.8,195
+Asymmetric,30,35,Wet,3,1600,Conservative,Infrequent Maintenance,Highway,60,Summer,45000,215/55R17,6.2,215
+Directional,18,24,Snow,5,1900,Aggressive,Regular Rotations,Mountainous,30,Winter,35000,205/60R15,7,205
+Regular Rotations,23,28,Dry,2,1700,Moderate,Regular Inspections,Urban and Highway,70,All-Season,30000,225/50R17,6.5,225
+Symmetric,27,34,Wet,4,1800,Conservative,Infrequent Maintenance,Highway,80,Summer,55000,245/40R18,5.6,245
